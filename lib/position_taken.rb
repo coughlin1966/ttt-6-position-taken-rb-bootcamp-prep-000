@@ -1,3 +1,3 @@
-def position_taken(board, input = "X")
+def position_taken(board, index)
 
 end
